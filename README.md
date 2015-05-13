@@ -1,4 +1,4 @@
-Campus Bubble Product 3 - Internal University Social Network
+Campus Bubble - Product 3: Internal University Social Network
 
 ## Directory Structure
 ```
