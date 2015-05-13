@@ -1,6 +1,6 @@
 ## Campus Bubble Product 3 - Internal University Social Network
 
-# Directory structure
+Directory structure
 ```
 -main/
  -app/
