@@ -5,6 +5,11 @@ This web app is an internal social network for university organizations to colla
 
 ---
 
+#### See the Published Web App Online
+This specific version of the product is no longer published online, but the latest version of Campus Bubble, which is available online, is built on top of what I created in this repo and looks very similar to this version. If you'd like to get the gist of what this web app looks like, please visit the [live demo of Campus Bubble](https://demo.campusbubble.com/explore)
+
+---
+
 #### Disclaimer
 I made most of my commits on this repo using another Github account called "campus-bubble". This was the account I used back when I was still working with my old company. If you'd like to verify this, please contact Campus Bubble's Chief of Product, Giovanni Hobbins: giovanni@campusbubble.com
 
