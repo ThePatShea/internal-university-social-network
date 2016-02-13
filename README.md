@@ -9,10 +9,10 @@ This web app is an internal social network for university organizations to colla
 This web app is no longer online, but you can still view some images of it. These are mockups, but screenshots would look identical, because I'm awesome at front end.
 
 **View the images:**
-- The [Home](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/62964/pictures/1435029931/original.png) page. Here, students could accept/decline invites to new groups, check updates from their existing groups, and see the hottest topics that all the groups on campus were discussing.
-- The [Group Dashboard](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/63028/pictures/1435072888/original.png) page. Here, members of clubs would view events/discussions/files posted by their fellow club members.
-- The [Group Event](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/63036/pictures/1435073521/original.png) page. Here, students would view the details of an event hosted by their club, write comments, and declare whether or not they'd attend the event.
-- The [Edit Group](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/63026/pictures/1435072032/original.png) page. Here, students would approve/deny new member requests, upgrade/downgrade existing members from admin status, and modify the group's name/category/profile picture.
+- The [Home](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/62964/pictures/1435029931/original.png) page. Here, students could accept/decline invites to new groups, check updates from their existing groups, and see the hottest topics that all the groups on campus were discussing.
+- The [Group Dashboard](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/63028/pictures/1435072888/original.png) page. Here, members of clubs would view events/discussions/files posted by their fellow club members.
+- The [Group Event](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/63036/pictures/1435073521/original.png) page. Here, students would view the details of an event hosted by their club, write comments, and declare whether or not they'd attend the event.
+- The [Edit Group](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/63026/pictures/1435072032/original.png) page. Here, students would approve/deny new member requests, upgrade/downgrade existing members from admin status, and modify the group's name/category/profile picture.
 
 ---
 
